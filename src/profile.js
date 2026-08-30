@@ -51,7 +51,7 @@ export const careerDirection = [
 
 export const achievements = [
   {
-    title: 'Take Off Programming Contest — Final Round',
+    title: 'Take Off Programming Contest - Final Round',
     term: 'Spring 2023',
     note: 'Certificate of Participation',
     certificate: '/takeof.pdf',
