@@ -1,0 +1,11 @@
+Copy your two existing files into this folder, keeping the exact names:
+
+    cv.pdf
+    tanjima.png
+
+They are referenced as `${import.meta.env.BASE_URL}cv.pdf` and
+`${import.meta.env.BASE_URL}tanjima.png` in src/data/profile.js, so they work
+both locally and on GitHub Pages.
+
+Filenames are case-sensitive on GitHub Pages. Once both files are in place you
+can delete this note.

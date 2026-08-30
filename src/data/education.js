@@ -1,0 +1,22 @@
+export const education = {
+  degree: 'B.Sc. in Computer Science and Engineering',
+  institution: 'Daffodil International University',
+  session: '2023 – 2026',
+  graduation: 'December 2026',
+  cgpa: '3.88 / 4.00',
+  location: 'Dhaka, Bangladesh',
+  coursework: [
+    'Machine Learning',
+    'Natural Language Processing',
+    'Data Science',
+    'Data Structures',
+    'DBMS',
+    'Computer Networks',
+    'Compiler Design',
+    'Computer Graphics',
+    'Operating Systems',
+    'Computer Architecture',
+    'Digital Logic Design',
+    'Software Engineering',
+  ],
+}
